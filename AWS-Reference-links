@@ -1,0 +1,4 @@
+Using Secret Manager secrets in EKS cluster:
+--------------------------------------------
+https://github.com/aws/secrets-store-csi-driver-provider-aws
+https://aws.amazon.com/blogs/security/how-to-use-aws-secrets-configuration-provider-with-kubernetes-secrets-store-csi-driver/
